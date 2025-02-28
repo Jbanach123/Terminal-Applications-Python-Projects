@@ -5,3 +5,5 @@
 - Higher Lower Game - Comparison game where you guess which celebrity or company has more followers.
 - Hangman Game - Classic word-guessing game where you try to reveal the hidden word before running out of attempts.
 - Caesar cipher - Text encryption and decryption program using the Caesar cipher algorithm.
+  
+The projects in this repository were created while completing the 100 Days of Code: The Complete Python Pro Bootcamp. These terminal applications helped reinforce Python concepts, including functions, loops, conditionals, and object-oriented programming.
