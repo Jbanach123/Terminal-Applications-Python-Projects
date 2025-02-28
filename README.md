@@ -1,4 +1,4 @@
-# Terminal-Games
+# Terminal-Applications
 - Coffee Machine – Simulation of a coffee machine that manages resources and transactions.
 - Quiz - Terminal-based True/False Quiz game that asks a series of questions, keeps track of the score, and provides feedback on each answer.(OOP)
 - Blackjack Game - Simple console-based version of the popular card game where you try to beat the dealer.
